@@ -1,3 +1,3 @@
-# JS-Practice
+# JS-Lessons
 
-## Using event listener, creating new functions etc. to do challenges from scrimba
+## DOM, Strings, Variables, Booleans and If-Statements, Functions, Objects, Arrays and Loops etc. all the practice lessons basic to advance.
